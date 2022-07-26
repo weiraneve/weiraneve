@@ -7,7 +7,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=e65e2a&width=280&height=45&lines=Java+web+developer;Stay+hungry,+Stay+foolish">
 </p>
 
-🎉 **Welcome to my GitHub profile!** ʕ•̫͡•ʔ-̫͡-ʕ•͓͡•ʔ-̫͡-ʔ
+## Welcome to my GitHub profile! ʕ•̫͡•ʔ-̫͡-ʕ•͓͡•ʔ-̫͡-ʔ
 <!-- Weird English generator - https://www.dute.org/weird-fonts -->
 <!-- Hi, I'm Steveay , a passionate self-taught Full Stack web developer and a funny software engineer from China. -->
 <!-- I take great care in the architecture and code quality of the things  I build.  -->
@@ -47,7 +47,9 @@
 
 > 💬 Ask me about anything, I am happy to help;
 
+## 📈 My GitHub Stats
 
+This is my WakaTime count.
 
 <!--START_SECTION:waka-->
 
@@ -57,8 +59,6 @@ Other        4 mins          ██▓░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-
-## 📈 My GitHub Stats
 
 **NOTE:** Top Languages does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub. It's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats).
 
