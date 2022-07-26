@@ -19,7 +19,7 @@
 𝑰 𝒂𝒎 𝒂𝒍𝒔𝒐 𝒂𝒏 𝒐𝒑𝒆𝒏-𝒔𝒐𝒖𝒓𝒄𝒆 𝒆𝒏𝒕𝒉𝒖𝒔𝒊𝒂𝒔𝒕 𝒂𝒏𝒅 𝒎𝒂𝒊𝒏𝒕𝒂𝒊𝒏𝒆𝒓. 𝑰 𝒍𝒆𝒂𝒓𝒏𝒆𝒅 𝒂 𝒍𝒐𝒕 𝒇𝒓𝒐𝒎 𝒕𝒉𝒆 𝒐𝒑𝒆𝒏-𝒔𝒐𝒖𝒓𝒄𝒆 𝒄𝒐𝒎𝒎𝒖𝒏𝒊𝒕𝒚 𝒂𝒏𝒅 𝑰 𝒍𝒐𝒗𝒆 𝒉𝒐𝒘 𝒄𝒐𝒍𝒍𝒂𝒃𝒐𝒓𝒂𝒕𝒊𝒐𝒏 𝒂𝒏𝒅 𝒌𝒏𝒐𝒘𝒍𝒆𝒅𝒈𝒆 𝒔𝒉𝒂𝒓𝒊𝒏𝒈 𝒉𝒂𝒑𝒑𝒆𝒏𝒆𝒅 𝒕𝒉𝒓𝒐𝒖𝒈𝒉 𝒐𝒑𝒆𝒏-𝒔𝒐𝒖𝒓𝒄𝒆.
 
 <!-- code.gif -->
-<img align="right" alt="GIF" src="https://github.com/weiran1999/weiran1999/blob/main/assets/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/weiran1999/weiran1999/blob/main/assets/code.gif?raw=true" width="450" height="290" />
 
 🛠️ **Languages and Tools:**
 
@@ -43,7 +43,11 @@
 
 - 💬 [Steveay Blog](https://weiran.ltd/)
 - 📫 How to reach me: ✉️ [Email](mailto:907221539@qq.com)
-- 💬 Ask me about anything, I am happy to help;
+
+
+> 💬 Ask me about anything, I am happy to help;
+
+
 
 <!--START_SECTION:waka-->
 
