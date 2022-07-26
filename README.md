@@ -44,21 +44,9 @@
 - 💬 [Steveay Blog](https://weiran.ltd/)
 - 📫 How to reach me: ✉️ [Email](mailto:907221539@qq.com)
 
-
 > 💬 Ask me about anything, I am happy to help;
 
 ## 📈 My GitHub Stats
-
-This is my WakaTime count.
-
-<!--START_SECTION:waka-->
-
-```text
-Java         32 mins         ███████████████████▓░░░░░   78.22 %
-Other        4 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.93 %
-```
-
-<!--END_SECTION:waka-->
 
 **NOTE:** Top Languages does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub. It's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats).
 
