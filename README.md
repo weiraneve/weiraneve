@@ -25,12 +25,16 @@
 
 [![](https://img.shields.io/badge/Linux-CentOS-2376bc?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://ubuntu.com/)
 [![](https://img.shields.io/badge/MacOS-2376bc?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/)
-[![](https://img.shields.io/badge/IDE-IDEA-blue?style=flat-square&logo=intellij-idea&logoColor=ffffff)](https://code.visualstudio.com/)
+[![](https://img.shields.io/badge/Editor-VisualStudio-blue?style=flat-square&logo=VisualStudio&logoColor=ffffff)](https://code.visualstudio.com)
+[![](https://img.shields.io/badge/IDE-IDEA-blue?style=flat-square&logo=intellij-idea&logoColor=ffffff)](https://www.jetbrains.com/zh-cn/idea/)
+[![](https://img.shields.io/badge/IDE-AndroidStudio-blue?style=flat-square&logo=android-studio&logoColor=ffffff)](https://developer.android.com/studio)
 
 [![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)](https://www.java.com/)
 [![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
+[![](https://img.shields.io/badge/-kotlin-dc382d?style=flat-square&logo=kotlin&logoColor=white)](https://kotlinlang.org)
 
 [![](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)](https://spring.io/projects/spring-framework/)
+[![](https://img.shields.io/badge/-android-269539?style=flat-square&logo=android&logoColor=white)](https://kotlinlang.org)
 [![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
 [![](https://img.shields.io/badge/-MySQL-003545?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
