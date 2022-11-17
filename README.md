@@ -55,6 +55,10 @@
 **NOTE:** Top Languages does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub. It's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats).
 
 <p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=weiran1999&" alt="lifeodyssey" />
+</p>
+
+<p align="center">
     <img src="https://github-readme-stats.vercel.app/api/?username=weiran1999&theme=shades-of-purple&show_icons=true&count_private=true" alt="Steveay's GitHub Stats">
     <!-- Top Langs - https://github.com/anuraghazra/github-readme-stats -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weiran1999&layout=compact&theme=tokyonight&hide=ejs,blade,html,css" alt="Steveay's Top Langs">
