@@ -67,7 +67,7 @@
 ## 👨‍💻 My GitHub activities of last 31 days.
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-![weiran1999's github activity graph](https://activity-graph.herokuapp.com/graph?username=weiran1999&theme=react-dark&area=true&custom_title=Steveay%20Contribution%20Graph)
+![weiran1999's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=weiran1999&bg_color=dedede&color=9e4c98&line=2452db&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 📘 My own favorite open source projects
 
