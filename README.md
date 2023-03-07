@@ -67,11 +67,16 @@
 ## 👨‍💻 My GitHub activities of last 31 days.
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-![weiran1999's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=weiran1999&bg_color=dedede&color=9e4c98&line=2452db&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![weiran1999's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=weiran1999&bg_color=dedede&color=9e4c98&line=2452db&point=403d3d&area=true&hide_border=true)
 
 ## 📘 My own favorite open source projects
 
 <!-- GitHub Extra Pins - https://github.com/anuraghazra/github-readme-stats -->
-<a href="https://github.com/weiran1999/seckillcloud.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=weiran1999&repo=seckillcloud&show_owner=true&theme=nightowl" />
-</a>
+<p align="center">
+  <a href="https://github.com/weiran1999/seckillcloud.git">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=weiran1999&repo=seckillcloud&show_owner=true&theme=nightowl" />
+  </a>
+  <a href="https://github.com/weiran1999/mynowinandroid.git">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=weiran1999&repo=mynowinandroid&show_owner=true&theme=nightowl" />
+  </a>
+</p>
