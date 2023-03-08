@@ -45,7 +45,7 @@
 [![](https://img.shields.io/badge/-RocketMQ-269539?style=flat-square&logo=apache-rocketmq&logoColor=white)](https://rocketmq.apache.org)
 [![](https://img.shields.io/badge/-Markdown-003545?style=flat-square&logo=markdown&logoColor=white)](https://daringfireball.net/projects/markdown/)
 
-- 💬 [Steveay Blog](https://weiran.ltd/)
+- 💬 [Steveay Blog](http://weiran.ltd/)
 - 📫 How to reach me: ✉️ [Email](mailto:907221539@qq.com)
 
 > 💬 Ask me about anything, I am happy to help;
