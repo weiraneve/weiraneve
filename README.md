@@ -66,7 +66,7 @@
 
 ## 👨‍💻 My GitHub activities of last 31 days.
 
-[![weiraneve's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=weiraneve&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![weiraneve's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=weiraneve&custom_title=My%20github%20repo%20push&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 📘 My own favorite open source projects
 
