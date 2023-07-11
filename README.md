@@ -14,7 +14,7 @@
 <!-- I am also an open-source enthusiast and maintainer.  -->
 <!-- I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source. -->
 
-𝑯𝒊, 𝑰'𝒎 [Steveay](http://www.weiran.ltd)✨, 𝒂 𝒑𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆 𝑱𝒂𝒗𝒂 𝒘𝒆𝒃 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 𝒂𝒏𝒅 𝑨𝒏𝒅𝒓𝒐𝒊𝒅 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">𝑰 𝒕𝒂𝒌𝒆 𝒈𝒓𝒆𝒂𝒕 𝒄𝒂𝒓𝒆 𝒊𝒏 𝒕𝒉𝒆 𝒂𝒓𝒄𝒉𝒊𝒕𝒆𝒄𝒕𝒖𝒓𝒆 𝒂𝒏𝒅 𝒄𝒐𝒅𝒆 𝒒𝒖𝒂𝒍𝒊𝒕𝒚 𝒐𝒇 𝒕𝒉𝒆 𝒕𝒉𝒊𝒏𝒈𝒔 𝑰 𝒃𝒖𝒊𝒍𝒅.
+𝑯𝒊, 𝑰'𝒎 [Steveay](http://www.steveay.com)✨, 𝒂 𝒑𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆 𝑱𝒂𝒗𝒂 𝒘𝒆𝒃 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 𝒂𝒏𝒅 𝑨𝒏𝒅𝒓𝒐𝒊𝒅 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">𝑰 𝒕𝒂𝒌𝒆 𝒈𝒓𝒆𝒂𝒕 𝒄𝒂𝒓𝒆 𝒊𝒏 𝒕𝒉𝒆 𝒂𝒓𝒄𝒉𝒊𝒕𝒆𝒄𝒕𝒖𝒓𝒆 𝒂𝒏𝒅 𝒄𝒐𝒅𝒆 𝒒𝒖𝒂𝒍𝒊𝒕𝒚 𝒐𝒇 𝒕𝒉𝒆 𝒕𝒉𝒊𝒏𝒈𝒔 𝑰 𝒃𝒖𝒊𝒍𝒅.
 
 𝑰 𝒂𝒎 𝒂𝒍𝒔𝒐 𝒂𝒏 𝒐𝒑𝒆𝒏-𝒔𝒐𝒖𝒓𝒄𝒆 𝒆𝒏𝒕𝒉𝒖𝒔𝒊𝒂𝒔𝒕 𝒂𝒏𝒅 𝒎𝒂𝒊𝒏𝒕𝒂𝒊𝒏𝒆𝒓. 𝑰 𝒍𝒆𝒂𝒓𝒏𝒆𝒅 𝒂 𝒍𝒐𝒕 𝒇𝒓𝒐𝒎 𝒕𝒉𝒆 𝒐𝒑𝒆𝒏-𝒔𝒐𝒖𝒓𝒄𝒆 𝒄𝒐𝒎𝒎𝒖𝒏𝒊𝒕𝒚 𝒂𝒏𝒅 𝑰 𝒍𝒐𝒗𝒆 𝒉𝒐𝒘 𝒄𝒐𝒍𝒍𝒂𝒃𝒐𝒓𝒂𝒕𝒊𝒐𝒏 𝒂𝒏𝒅 𝒌𝒏𝒐𝒘𝒍𝒆𝒅𝒈𝒆 𝒔𝒉𝒂𝒓𝒊𝒏𝒈 𝒉𝒂𝒑𝒑𝒆𝒏𝒆𝒅 𝒕𝒉𝒓𝒐𝒖𝒈𝒉 𝒐𝒑𝒆𝒏-𝒔𝒐𝒖𝒓𝒄𝒆.
 
@@ -45,7 +45,7 @@
 [![](https://img.shields.io/badge/-RocketMQ-269539?style=flat-square&logo=apache-rocketmq&logoColor=white)](https://rocketmq.apache.org)
 [![](https://img.shields.io/badge/-Markdown-003545?style=flat-square&logo=markdown&logoColor=white)](https://daringfireball.net/projects/markdown/)
 
-- 💬 [Steveay Blog](http://weiran.ltd/)
+- 💬 [Steveay Blog](http://steveay.com/)
 - 📫 How to reach me: ✉️ [Email](mailto:907221539@qq.com)
 
 > 💬 Ask me about anything, I am happy to help;
