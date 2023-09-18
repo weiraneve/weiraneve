@@ -48,7 +48,7 @@
 - 💬 [Steveay Blog](http://steveay.com/)
 - 📫 How to reach me: ✉️ [Email](mailto:907221539@qq.com)
 
-> 💬 Ask me about anything, I am happy to help;
+> 💬 Ask me about anything, I am happy to help.
 
 ## 📈 My GitHub Stats
 
