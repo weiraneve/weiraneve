@@ -75,14 +75,17 @@
   <a href="https://github.com/weiraneve/seckillcloud.git">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=weiraneve&repo=seckillcloud&show_owner=true&theme=nightowl" />
   </a>
-  <a href="https://github.com/weiraneve/mynowinandroid.git">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=weiraneve&repo=mynowinandroid&show_owner=true&theme=nightowl" />
+  <a href="https://github.com/weiraneve/android-practice.git">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=weiraneve&repo=android-practice&show_owner=true&theme=nightowl" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/weiraneve/spider.git">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=weiraneve&repo=spider&show_owner=true&theme=nightowl" />
+  </a>
+  <a href="https://github.com/weiraneve/seckillDeal.git">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=weiraneve&repo=seckillDeal&show_owner=true&theme=nightowl" />
   </a>
 </p>
 
