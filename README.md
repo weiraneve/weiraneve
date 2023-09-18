@@ -73,19 +73,19 @@
 <!-- GitHub Extra Pins - https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
   <a href="https://github.com/weiraneve/seckillcloud.git">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=weiraneve&repo=seckillcloud&show_owner=true&theme=calm" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=weiraneve&repo=seckillcloud&show_owner=true&theme=dark" />
   </a>
   <a href="https://github.com/weiraneve/android-practice.git">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=weiraneve&repo=android-practice&show_owner=true&theme=calm" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=weiraneve&repo=android-practice&show_owner=true&theme=dark" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/weiraneve/spider.git">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=weiraneve&repo=spider&show_owner=true&theme=calm" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=weiraneve&repo=spider&show_owner=true&theme=dark" />
   </a>
   <a href="https://github.com/weiraneve/seckillDeal.git">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=weiraneve&repo=seckillDeal&show_owner=true&theme=calm" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=weiraneve&repo=seckillDeal&show_owner=true&theme=dark" />
   </a>
 </p>
 
