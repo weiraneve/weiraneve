@@ -32,9 +32,12 @@
 [![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)](https://www.java.com/)
 [![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
 [![](https://img.shields.io/badge/-kotlin-dc382d?style=flat-square&logo=kotlin&logoColor=white)](https://kotlinlang.org)
+[![](https://img.shields.io/badge/-dart-007371?style=flat-square&logo=dart&logoColor=white)](https://dart.dev)
+[![](https://img.shields.io/badge/-javascript-dc388d?style=flat-square&logo=javascript&logoColor=white)](https://www.javascript.com/)
 
 [![](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)](https://spring.io/projects/spring-framework/)
-[![](https://img.shields.io/badge/-Android-269539?style=flat-square&logo=android&logoColor=white)](https://kotlinlang.org)
+[![](https://img.shields.io/badge/-Android-269539?style=flat-square&logo=android&logoColor=white)](https://www.android.com/)
+[![](https://img.shields.io/badge/-flutter-007396?style=flat-square&logo=flutter&logoColor=white)](https://flutter.dev/)
 [![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
 [![](https://img.shields.io/badge/-MySQL-003545?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
