@@ -87,8 +87,8 @@
   <a href="https://github.com/weiraneve/spider.git">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=weiraneve&repo=spider&show_owner=true&theme=dark" />
   </a>
-  <a href="https://github.com/weiraneve/seckillDeal.git">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=weiraneve&repo=seckillDeal&show_owner=true&theme=dark" />
+  <a href="https://github.com/weiraneve/seckill-deal.git">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=weiraneve&repo=seckill-deal&show_owner=true&theme=dark" />
   </a>
 </p>
 
