@@ -23,21 +23,24 @@
 
 🛠️ **Languages and Tools:**
 
-[![](https://img.shields.io/badge/Linux-CentOS-2376bc?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://ubuntu.com/)
-[![](https://img.shields.io/badge/MacOS-2376bc?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/)
+[![](https://img.shields.io/badge/Linux-CentOS-9D5002?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://ubuntu.com/)
+[![](https://img.shields.io/badge/MacOS-black?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/)
 [![](https://img.shields.io/badge/Editor-VisualStudio-blue?style=flat-square&logo=VisualStudio&logoColor=ffffff)](https://code.visualstudio.com)
-[![](https://img.shields.io/badge/IDE-IDEA-blue?style=flat-square&logo=intellij-idea&logoColor=ffffff)](https://www.jetbrains.com/zh-cn/idea/)
-[![](https://img.shields.io/badge/IDE-AndroidStudio-blue?style=flat-square&logo=android-studio&logoColor=ffffff)](https://developer.android.com/studio)
+[![](https://img.shields.io/badge/IDE-IDEA-red?style=flat-square&logo=intellij-idea&logoColor=ffffff)](https://www.jetbrains.com/zh-cn/idea/)
+[![](https://img.shields.io/badge/IDE-AndroidStudio-049D02?style=flat-square&logo=android-studio&logoColor=ffffff)](https://developer.android.com/studio)
+[![](https://img.shields.io/badge/IDE-RustRover-9D2802?style=flat-square&logo=JetBrains&logoColor=ffffff)](https://www.jetbrains.com/rust/)
 
-[![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)](https://www.java.com/)
+[![](https://img.shields.io/badge/-Java-9D4802?style=flat-square&logo=openjdk&logoColor=ffffff)](https://www.java.com/)
 [![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
 [![](https://img.shields.io/badge/-kotlin-dc382d?style=flat-square&logo=kotlin&logoColor=white)](https://kotlinlang.org)
 [![](https://img.shields.io/badge/-dart-007371?style=flat-square&logo=dart&logoColor=white)](https://dart.dev)
 [![](https://img.shields.io/badge/-javascript-dc388d?style=flat-square&logo=javascript&logoColor=white)](https://www.javascript.com/)
+[![](https://img.shields.io/badge/-rust-9D2802?style=flat-square&logo=rust&logoColor=white)](https://www.rust-lang.org/)
 
 [![](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)](https://spring.io/projects/spring-framework/)
 [![](https://img.shields.io/badge/-Springboot-537836?style=flat-square&logo=springboot&logoColor=white)]()
 [![](https://img.shields.io/badge/-%20Springcloud-B6F188?style=flat-square&logo=spring&logoColor=black)](https://spring.io/projects/spring-cloud)
+[![](https://img.shields.io/badge/actix-9D2802?style=flat-square&logo=rust&logoColor=black)](https://actix.rs/)
 [![](https://img.shields.io/badge/-Android-269539?style=flat-square&logo=android&logoColor=white)](https://www.android.com/)
 [![](https://img.shields.io/badge/-flutter-007396?style=flat-square&logo=flutter&logoColor=white)](https://flutter.dev/)
 [![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
