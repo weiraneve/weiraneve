@@ -43,6 +43,8 @@
 [![](https://img.shields.io/badge/actix-9D2802?style=flat-square&logo=rust&logoColor=black)](https://actix.rs/)
 [![](https://img.shields.io/badge/-Android-269539?style=flat-square&logo=android&logoColor=white)](https://www.android.com/)
 [![](https://img.shields.io/badge/-flutter-007396?style=flat-square&logo=flutter&logoColor=white)](https://flutter.dev/)
+[![](https://img.shields.io/badge/-React-008699?style=flat-square&logo=react&logoColor=white)](https://react.dev)
+[![](https://img.shields.io/badge/-uniapp-007545?style=flat-square&logo=uniapp&logoColor=white)](https://uniapp.dcloud.net.cn)
 [![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
 [![](https://img.shields.io/badge/-MySQL-003545?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
@@ -100,6 +102,9 @@
 <p align="center">
   <a href="https://github.com/weiraneve/hok-lottery-actix">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=weiraneve&repo=hok-lottery-actix&show_owner=true&theme=default" />
+  </a>
+  <a href="https://github.com/weiraneve/actix-clean-architecture">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=weiraneve&repo=actix-clean-architecture&show_owner=true&theme=default" />
   </a>
 </p>
 
