@@ -9,10 +9,6 @@
 
 ## Welcome to my GitHub profile! ʕ•̫͡•ʔ-̫͡-ʕ•͓͡•ʔ-̫͡-ʔ
 <!-- Weird English generator - https://www.dute.org/weird-fonts -->
-<!-- Hi, I'm weiraneve , a passionate self-taught Full Stack web developer and a funny software engineer from China. -->
-<!-- I take great care in the architecture and code quality of the things  I build.  -->
-<!-- I am also an open-source enthusiast and maintainer.  -->
-<!-- I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source. -->
 
 𝑯𝒊, 𝑰'𝒎 [Steveay](http://www.steveay.com)✨, 𝒂 𝒑𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆 𝑱𝒂𝒗𝒂 𝒘𝒆𝒃 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 𝒂𝒏𝒅 𝑨𝒏𝒅𝒓𝒐𝒊𝒅 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">𝑰 𝒕𝒂𝒌𝒆 𝒈𝒓𝒆𝒂𝒕 𝒄𝒂𝒓𝒆 𝒊𝒏 𝒕𝒉𝒆 𝒂𝒓𝒄𝒉𝒊𝒕𝒆𝒄𝒕𝒖𝒓𝒆 𝒂𝒏𝒅 𝒄𝒐𝒅𝒆 𝒒𝒖𝒂𝒍𝒊𝒕𝒚 𝒐𝒇 𝒕𝒉𝒆 𝒕𝒉𝒊𝒏𝒈𝒔 𝑰 𝒃𝒖𝒊𝒍𝒅.
 
