@@ -42,6 +42,7 @@
 [![](https://img.shields.io/badge/-React-008699?style=flat-square&logo=react&logoColor=white)](https://react.dev)
 [![](https://img.shields.io/badge/-uniapp-007545?style=flat-square&logo=uniapp&logoColor=white)](https://uniapp.dcloud.net.cn)
 [![](https://img.shields.io/badge/-Tauri-f7de4b?style=flat-square&logo=tauri&logoColor=blue)](https://tauri.app)
+[![](https://img.shields.io/badge/-Express-E8E5E4?style=flat-square&logo=express&logoColor=blue)](https://expressjs.com)
 [![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
 [![](https://img.shields.io/badge/-MySQL-003545?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
