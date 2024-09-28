@@ -32,6 +32,7 @@
 [![](https://img.shields.io/badge/-Dart-007371?style=flat-square&logo=dart&logoColor=white)](https://dart.dev)
 [![](https://img.shields.io/badge/-JavaScript-dc388d?style=flat-square&logo=javascript&logoColor=white)](https://www.javascript.com/)
 [![](https://img.shields.io/badge/-Rust-9D2802?style=flat-square&logo=rust&logoColor=white)](https://www.rust-lang.org/)
+[![](https://img.shields.io/badge/-Solidity-95479D?style=flat-square&logo=solidity&logoColor=white)](https://soliditylang.org)
 
 [![](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)](https://spring.io/projects/spring-framework/)
 [![](https://img.shields.io/badge/-SpringBoot-537836?style=flat-square&logo=springboot&logoColor=white)]()
@@ -43,6 +44,8 @@
 [![](https://img.shields.io/badge/-uniapp-007545?style=flat-square&logo=uniapp&logoColor=white)](https://uniapp.dcloud.net.cn)
 [![](https://img.shields.io/badge/-Tauri-f7de4b?style=flat-square&logo=tauri&logoColor=blue)](https://tauri.app)
 [![](https://img.shields.io/badge/-Express-E8E5E4?style=flat-square&logo=express&logoColor=blue)](https://expressjs.com)
+[![](https://img.shields.io/badge/-Foundry-EAE01B?style=flat-square&logo=foundry&logoColor=blue)](https://learnblockchain.cn/docs/foundry/i18n/zh/)
+[![](https://img.shields.io/badge/-Linea-B5FAF9?style=flat-square&logo=linea&logoColor=blue)](https://linea.build)
 [![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
 [![](https://img.shields.io/badge/-MySQL-003545?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
