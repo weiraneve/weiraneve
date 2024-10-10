@@ -17,7 +17,7 @@
 <!-- code.gif -->
 <img align="right" alt="GIF" src="https://github.com/weiraneve/weiraneve/blob/main/assets/code.gif?raw=true" width="450" height="290" />
 
-🛠️ **Languages and Tools:**
+🛠️ **Tools, languages and tech stack:**
 
 [![](https://img.shields.io/badge/Linux-CentOS-9D5002?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://ubuntu.com/)
 [![](https://img.shields.io/badge/MacOS-black?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/)
@@ -43,9 +43,11 @@
 [![](https://img.shields.io/badge/-React-008699?style=flat-square&logo=react&logoColor=white)](https://react.dev)
 [![](https://img.shields.io/badge/-uniapp-007545?style=flat-square&logo=uniapp&logoColor=white)](https://uniapp.dcloud.net.cn)
 [![](https://img.shields.io/badge/-Tauri-f7de4b?style=flat-square&logo=tauri&logoColor=blue)](https://tauri.app)
+[![](https://img.shields.io/badge/-Nodejs-A0D2A0?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org)
 [![](https://img.shields.io/badge/-Express-E8E5E4?style=flat-square&logo=express&logoColor=blue)](https://expressjs.com)
 [![](https://img.shields.io/badge/-Foundry-EAE01B?style=flat-square&logo=foundry&logoColor=blue)](https://learnblockchain.cn/docs/foundry/i18n/zh/)
 [![](https://img.shields.io/badge/-Linea-B5FAF9?style=flat-square&logo=linea&logoColor=blue)](https://linea.build)
+[![](https://img.shields.io/badge/-Yew-B3F6B3?style=flat-square&logo=yew&logoColor=white)](https://yew.rs)
 [![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
 [![](https://img.shields.io/badge/-MySQL-003545?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
