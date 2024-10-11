@@ -46,7 +46,7 @@
 [![](https://img.shields.io/badge/-Nodejs-A0D2A0?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org)
 [![](https://img.shields.io/badge/-Express-E8E5E4?style=flat-square&logo=express&logoColor=blue)](https://expressjs.com)
 [![](https://img.shields.io/badge/-Foundry-EAE01B?style=flat-square&logo=foundry&logoColor=blue)](https://learnblockchain.cn/docs/foundry/i18n/zh/)
-[![](https://img.shields.io/badge/-Linea-B5FAF9?style=flat-square&logo=linea&logoColor=blue)](https://linea.build)
+[![](https://img.shields.io/badge/-Anchor-B5FAF9?style=flat-square&logo=anchor&logoColor=blue)](https://www.anchor-lang.com)
 [![](https://img.shields.io/badge/-Yew-B3F6B3?style=flat-square&logo=yew&logoColor=white)](https://yew.rs)
 [![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
 [![](https://img.shields.io/badge/-MySQL-003545?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
