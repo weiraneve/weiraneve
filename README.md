@@ -32,6 +32,7 @@
 [![](https://img.shields.io/badge/-Dart-007371?style=flat-square&logo=dart&logoColor=white)](https://dart.dev)
 [![](https://img.shields.io/badge/-JavaScript-dc388d?style=flat-square&logo=javascript&logoColor=white)](https://www.javascript.com/)
 [![](https://img.shields.io/badge/-Rust-9D2802?style=flat-square&logo=rust&logoColor=white)](https://www.rust-lang.org/)
+[![](https://img.shields.io/badge/-Go-3776AC?style=flat-square&logo=go&logoColor=white)](https://go.dev)
 [![](https://img.shields.io/badge/-Solidity-95479D?style=flat-square&logo=solidity&logoColor=white)](https://soliditylang.org)
 
 [![](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)](https://spring.io/projects/spring-framework/)
