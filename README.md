@@ -39,6 +39,7 @@
 [![](https://img.shields.io/badge/-SpringBoot-537836?style=flat-square&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
 [![](https://img.shields.io/badge/-SpringCloud-B6F188?style=flat-square&logo=spring&logoColor=black)](https://spring.io/projects/spring-cloud)
 [![](https://img.shields.io/badge/-React-008699?style=flat-square&logo=react&logoColor=white)](https://react.dev)
+[![](https://img.shields.io/badge/-Gozero-004699?style=flat-square&logo=go-zero&logoColor=white)](https://go-zero.dev/)
 [![](https://img.shields.io/badge/-Actix-9D2802?style=flat-square&logo=rust&logoColor=black)](https://actix.rs/)
 [![](https://img.shields.io/badge/-Android-269539?style=flat-square&logo=android&logoColor=white)](https://www.android.com/)
 [![](https://img.shields.io/badge/-Flutter-007396?style=flat-square&logo=flutter&logoColor=white)](https://flutter.dev/)
